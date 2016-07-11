@@ -6,9 +6,10 @@ var request = require('request');
 
 //command line arguments
 var argvArray = process.argv.slice(0);
-// console.log(argvArray);
+console.log(argvArray);
 var command = process.argv[2];
 var argTwo = process.argv[3];
+var searchTermSong = getSearchTerm('song'); 
 
 //keys
 var twitterKeys = require('./keys.js').twitterKeys;
@@ -16,23 +17,6 @@ console.log(twitterKeys);
 
 //clients
 var client = new Twitter(twitterKeys);
-
-//getSongName - I had issues doing this inside a function because the argvArray only showed the first two arguments
-// console.log(argvArray);
-// var songToSearch = '';
-// if (argvArray.length === 3) {
-// 	songToSearch = 'the sign';
-// } else {
-// 	// songToSearch = argvArray.splice(3).join(' ');
-// }
-
-//getMovieName
-// var movieToSearch = '';
-// if (argvArray.length === 3) {
-// 	movieToSearch = 'Mr. Nobody';
-// } else {
-// 	movieToSearch = songToSearch;
-// }
 
 var functions = {
 	'my-tweets': function() {
@@ -70,11 +54,16 @@ var functions = {
 			}
 		});
 	},
-	'spotify-this-song': function() {
-		var songToSearch = getSearchTerm('song');
+	'spotify-this-song': function(songToSearch) {
+		var searchTermSong = '';
+		if (songToSearch) {
+			searchTermSong = songToSearch;
+		} else {
+			searchTermSong = getSearchTerm('song');
+		}
 		spotify.search({
 			type: 'track', 
-			query: songToSearch, 
+			query: searchTermSong, 
 			limit: 5
 		}, function (err, data) {
 			if (!err) {
@@ -113,6 +102,19 @@ var functions = {
 				console.error(error);
 			}
 		});
+	},
+	'do-what-it-says': function() {
+		fs.readFile('random.txt', 'utf8', function (error, data) {
+			if (!error) {
+				var randomArray = data.split(',');
+				var command = randomArray[0];
+				var searchTerm = randomArray[1].slice(1, -1);
+				console.log(searchTerm);
+				functions[command](searchTerm);
+			} else {
+				console.error(error);
+			}
+		})
 	}
 }
 
@@ -191,7 +193,7 @@ function songsToConsoleAndFile(data, prepend, append, i, length) {
 }
 
 function getSearchTerm(type) {
-var searchTerm = '';
+	var searchTerm = '';
 	if (argvArray.length === 3) {
 		if (type === 'song') {
 			searchTerm = 'the sign';
@@ -199,7 +201,7 @@ var searchTerm = '';
 			searchTerm = 'Mr. Nobody';
 		}
 	} else {
-		searchTerm = argvArray.splice(3).join(' ');
+		searchTerm = argvArray.slice(3).join(' ');
 	}
 	return searchTerm;
 }
