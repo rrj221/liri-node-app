@@ -19,9 +19,11 @@ console.log(twitterKeys);
 var client = new Twitter(twitterKeys);
 
 var functions = {
-	'my-tweets': function() {
+	'my-tweets': function(usernameToSearch) {
 		var screenName = '';
-		if (!argTwo) {
+		if (usernameToSearch) {
+			screenName = usernameToSearch;
+		} else if (!argTwo) {
 			screenName = 'ryanjarrell';
 		} else {
 			screenName = argTwo;
@@ -90,10 +92,15 @@ var functions = {
 			}
 		})
 	}, 
-	'movie-this': function() {
+	'movie-this': function(movieToSearch) {
+		var searchTermMovie = '';
+		if (movieToSearch) {
+			searchTermMovie = movieToSearch;
+		} else {
+			searchTermMovie = getSearchTerm('movie');
+		}
 		var movieToSearch = getSearchTerm('movie');
-		console.log(movieToSearch);
-		var queryURL = 'http://www.omdbapi.com/?t=' + movieToSearch +'&y=&plot=short&r=json';
+		var queryURL = 'http://www.omdbapi.com/?t=' + searchTermMovie +'&y=&plot=short&r=json';
 		request(queryURL, function (error, response, body) {
 			if (!error) {
 				// console.log(JSON.parse(body));
