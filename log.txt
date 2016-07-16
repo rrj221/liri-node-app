@@ -967,3 +967,263 @@ Spotify Link: https://p.scdn.co/mp3-preview/3c1d64e8c87cd74c874a0edce97f0ecf9e47
 
 }
 
+movie-this star wars
+Title: Star Wars
+Year: 1983
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: N/A
+Actors: Harrison Ford, Alec Guinness, Mark Hamill, James Earl Jones
+
+movie-this frozen
+Title: Frozen
+Year: 2013
+IMDB Rating: 7.6
+Country: USA
+Language: English, Icelandic
+Plot: When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister, Anna, teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+movie-this james bond
+Title: James Bond
+Year: 1999
+IMDB Rating: 5.1
+Country: India
+Language: Malayalam
+Plot: Five friends in hiding after their local business goes bankrupt stumble upon a baby that changes their lives.
+Actors: Indrans, Janardanan, Prem Kumar, Kalabhavan Mani
+
+movie-this indiana jones
+Title: Indiana Jones and the Last Crusade
+Year: 1989
+IMDB Rating: 8.3
+Country: USA
+Language: English, German, Greek
+Plot: When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.
+Actors: Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody
+
+movie-this indiana jones
+Title: Indiana Jones and the Last Crusade
+Year: 1989
+IMDB Rating: 8.3
+Country: USA
+Language: English, German, Greek
+Plot: When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.
+Actors: Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody
+
+movie-this indiana jones
+Title: Indiana Jones and the Last Crusade
+Year: 1989
+IMDB Rating: 8.3
+Country: USA
+Language: English, German, Greek
+Plot: When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.
+Actors: Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody
+
+movie-this indiana jones
+Title: Indiana Jones and the Last Crusade
+Year: 1989
+IMDB Rating: 8.3
+Country: USA
+Language: English, German, Greek
+Plot: When Dr. Henry Jones Sr. suddenly goes missing while pursuing the Holy Grail, eminent archaeologist Indiana Jones must follow in his father's footsteps and stop the Nazis.
+Actors: Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody
+4.0
+http://www.rottentomatoes.com/m/indiana_jones_and_the_last_crusade/
+
+movie-this the big short
+Title: The Big Short
+Year: 2015
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.
+Actors: Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert
+Rotten Tomatoe Rating: N/A
+Rotten Tomatoe URL: http://www.rottentomatoes.com/m/the_big_short/
+
+movie-this the big short
+Title: The Big Short
+Year: 2015
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.
+Actors: Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert
+Rotten Tomatoe Rating: N/A
+Rotten Tomatoe URL: http://www.rottentomatoes.com/m/the_big_short/
+
+movie-this the big short
+Title: The Big Short
+Year: 2015
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.
+Actors: Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert
+Rotten Tomatoe Rating: N/A
+Rotten Tomatoe URL: http://www.rottentomatoes.com/m/the_big_short/
+
+movie-this the big short
+Title: The Big Short
+Year: 2015
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.
+Actors: Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert
+Rotten Tomatoe Rating: N/A
+Rotten Tomatoe URL: http://www.rottentomatoes.com/m/the_big_short/
+
+movie-this the big short
+Title: The Big Short
+Year: 2015
+IMDB Rating: 7.8
+Country: USA
+Language: English
+Plot: Four denizens in the world of high-finance predict the credit and housing bubble collapse of the mid-2000s, and decide to take on the big banks for their greed and lack of foresight.
+Actors: Ryan Gosling, Rudy Eisenzopf, Casey Groves, Charlie Talbert
+Rotten Tomatoe Rating: N/A
+Rotten Tomatoe URL: http://www.rottentomatoes.com/m/the_big_short/
+
+my-tweets
+Sat Jul 09 21:28:17: @bbattell86 hey man, thanks for liking my tweet
+Sat Jul 09 20:44:25: i caught a wild charmander
+Sat Mar 21 02:30:09: @BillSimmons 1 play 2 nut taps... smh #the_celtics_game_tonight_specifically_marcus_smart
+Thu Sep 06 18:19:43: @MJenn1990 your tweets are bad and you should feel bad
+Thu Sep 06 17:53:22: @MJenn1990 yo
+Tue Nov 08 07:16:49: #ThingsICantLiveWithout my dishwasher
+Fri Oct 07 03:33:46: @ryanjarrell that is really cool ryan
+Fri Oct 07 03:32:37: watching the colbert report
+Tue Jun 28 01:05:18: Nigel Thornberry
+Thu Aug 12 02:42:40: hey harry!
+Sun Mar 14 01:00:19: @MJenn1990 hi matt how are you?
+Thu Aug 27 21:06:58: has two followers!  Thanks Nick!
+Tue Aug 11 15:43:03: @MJenn1990 haha matt you are so funny
+Thu Jul 16 14:50:23: @DannyProvolone yeah you should start twitting now
+Thu Jul 16 14:49:03: watching degrassi. omg such a good show
+Thu Jul 16 14:18:26: finished breakfast
+Thu Jul 16 13:57:09: eating breakfast
+
+
+do-what-it-says
+{
+
+Title: I Want It That Way
+Artist: Leander
+Album: Night Of A Thousand Kisses
+Spotify Link: https://p.scdn.co/mp3-preview/77a3d0f08589b7b8a38bef7ae20d92c9d06461ff
+
+Title: I Want It That Way
+Artist: Leander
+Album: Night of a Thousand Kisses (Special Edition)
+Spotify Link: https://p.scdn.co/mp3-preview/335aaed157ce46870328f92757c48ddb1cad76f9
+
+Title: I Want It That Way / Bad Romance (feat. With a Twist)
+Artist: Steve Kimbrough
+Album: The Luckiest
+Spotify Link: https://p.scdn.co/mp3-preview/8f4ac2fb325475aa5770e86a1ef1474a6ba093af
+
+Title: I Want It That Way (Thriller Boys Back On The Street)
+Artist: Lil Paul
+Album: Halloween Warrior Glory (A Monstrous Music Match from the Freakiest Performers)
+Spotify Link: https://p.scdn.co/mp3-preview/4809b8d16866005ab613b896e86f644dbed055e3
+
+Title: I Want It That Way
+Artist: Naturally Sharp
+Album: A Decade Under the Influence
+Spotify Link: https://p.scdn.co/mp3-preview/3c1d64e8c87cd74c874a0edce97f0ecf9e47215b
+
+}
+
+spotify-this-song hideaway
+{
+
+Title: Hideaway
+Artist: Kiesza
+Album: Hideaway
+Spotify Link: https://p.scdn.co/mp3-preview/2cb38142999e52ec08721852faa9cae7ebd2a89d
+
+Title: Hideaway
+Artist: David Hollandsworth
+Album: Pure Relaxation for Bliss
+Spotify Link: https://p.scdn.co/mp3-preview/66a0a54f2551cf28850bc0c756716a1da642d262
+
+Title: Hideaway
+Artist: David Hollandsworth
+Album: Soothing Sounds for Sleep and Rest
+Spotify Link: https://p.scdn.co/mp3-preview/66a0a54f2551cf28850bc0c756716a1da642d262
+
+Title: Hideaway
+Artist: David Hollandsworth
+Album: Experience Serenity with Spa Music
+Spotify Link: https://p.scdn.co/mp3-preview/66a0a54f2551cf28850bc0c756716a1da642d262
+
+Title: Hideaway
+Artist: Kiesza
+Album: Sound Of A Woman
+Spotify Link: https://p.scdn.co/mp3-preview/80e619fc8a656032a6786e1ba408e1a99f1ed27c
+
+}
+
+spotify-this-song i want you back
+{
+
+Title: I Want You Back
+Artist: The Jackson 5
+Album: Anthology: Jackson 5
+Spotify Link: https://p.scdn.co/mp3-preview/9503603f0b9a1fb95343fb85ca97edc1650c52db
+
+Title: Fuck It (I Don't Want You Back)
+Artist: Eamon
+Album: I Don't Want You Back
+Spotify Link: https://p.scdn.co/mp3-preview/290ecf4383a60ac88e9f83c7da72469e28693600
+
+Title: I Want You Back - Radio Edit
+Artist: *NSYNC
+Album: 'N Sync
+Spotify Link: https://p.scdn.co/mp3-preview/d28587ae453a4ac3cba66d517f9f0d715e96cc25
+
+Title: I Want You Back
+Artist: The Jackson 5
+Album: Greatest Hits
+Spotify Link: https://p.scdn.co/mp3-preview/4d04e7e5a4aed6535d6df0677b4c70f8d0349e87
+
+Title: I Want You Back
+Artist: The Jackson 5
+Album: 20th Century Masters: The Millennium Collection: Best Of The Jackson 5 (Domestic Version)
+Spotify Link: https://p.scdn.co/mp3-preview/051d1ba839537645906eddce1809a263d04d0193
+
+}
+
+spotify-this-song purple rain
+{
+
+Title: If I Have to Wake Up (Would You Stop the Rain?)
+Artist: Baroness
+Album: Purple
+Spotify Link: https://p.scdn.co/mp3-preview/70ae63b5b5eb0191351e069a86b004addde99274
+
+Title: Purple Rain - Theme from Purple Rain
+Artist: Movie Orchestra
+Album: Movie Zone 2nd Street (The Most Seductive Movie Soundtracks)
+Spotify Link: https://p.scdn.co/mp3-preview/5ef07cc739fb19c43d628065699f8f82fafdd819
+
+Title: Lets Go Crazy (From "Purple Rain")
+Artist: The Hollywood Soundtrack Band
+Album: Greatest Songs from 80s Movies
+Spotify Link: https://p.scdn.co/mp3-preview/526f14722b8f2e51334577c6153ca122a2234fe5
+
+Title: Purple Rain (Prince) (Acoustic)
+Artist: Arjun Kaul
+Album: Purple Rain (Prince) (Acoustic)
+Spotify Link: https://p.scdn.co/mp3-preview/a49e82efe29cf1987fdb45a1bcca2c95baa7cfe0
+
+Title: Purple Rain (58 BPM)
+Artist: A.M.P.
+Album: Aerobics! 2 Hours of Best Workout Music
+Spotify Link: https://p.scdn.co/mp3-preview/afd695f5854d44648be77463237a68b06b5c2ff1
+
+}
+

@@ -6,14 +6,12 @@ var request = require('request');
 
 //command line arguments
 var argvArray = process.argv.slice(0);
-console.log(argvArray);
 var command = process.argv[2];
 var argTwo = process.argv[3];
 var searchTermSong = getSearchTerm('song'); 
 
 //keys
 var twitterKeys = require('./keys.js').twitterKeys;
-console.log(twitterKeys);
 
 //clients
 var client = new Twitter(twitterKeys);
@@ -99,11 +97,10 @@ var functions = {
 		} else {
 			searchTermMovie = getSearchTerm('movie');
 		}
-		var movieToSearch = getSearchTerm('movie');
-		var queryURL = 'http://www.omdbapi.com/?t=' + searchTermMovie +'&y=&plot=short&r=json';
+		var queryURL = 'http://www.omdbapi.com/?t=' + searchTermMovie +'&y=&plot=short&r=json&tomatoes=true';
 		request(queryURL, function (error, response, body) {
 			if (!error) {
-				// console.log(JSON.parse(body));
+				// console.log(JSON.parse(body, null, 2));
 				moviesToConsoleAndFile(body);
 			} else {
 				console.error(error);
@@ -221,10 +218,10 @@ function moviesToConsoleAndFile(body) {
 	var language = "Language: "+JSON.parse(body).Language;
 	var plot = "Plot: "+JSON.parse(body).Plot;
 	var actors = "Actors: "+JSON.parse(body).Actors;
-	// var rottenRating = 
-	// var rottenURL = 
-	console.log(title+'\n'+year+'\n'+imdbRating+'\n'+country+'\n'+language+'\n'+plot+'\n'+actors);
-	appendToFileBasic(title+'\n'+year+'\n'+imdbRating+'\n'+country+'\n'+language+'\n'+plot+'\n'+actors+'\n');
+	var rottenRating = "Rotten Tomatoe Rating: "+JSON.parse(body).tomatoUserRating;
+	var rottenURL = "Rotten Tomatoe URL: "+JSON.parse(body).tomatoURL;
+	console.log(title+'\n'+year+'\n'+imdbRating+'\n'+country+'\n'+language+'\n'+plot+'\n'+actors+'\n'+rottenRating+'\n'+rottenURL);
+	appendToFileBasic(title+'\n'+year+'\n'+imdbRating+'\n'+country+'\n'+language+'\n'+plot+'\n'+actors+'\n'+rottenRating+'\n'+rottenURL+'\n');
 }
 
 
